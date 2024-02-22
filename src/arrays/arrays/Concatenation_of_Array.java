@@ -6,7 +6,7 @@ public class Concatenation_of_Array {
         int[] sum1 = new int[nums.length];
         int n = nums.length;
 
-
+// helo
         for (int i = 0; i < 2*nums.length; i++) {
             if(i< nums.length){
                 ans[i] = nums[i];
